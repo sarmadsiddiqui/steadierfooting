@@ -1,6 +1,6 @@
 title:               Celeste
-url:                 https://iuqiddis.github.io/youth
-baseurl:             ""
+url:                 https://iuqiddis.github.io
+baseurl:             /youth
 
 markdown:            kramdown
 highlighter:         rouge
