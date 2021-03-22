@@ -27,5 +27,10 @@
 @import "pages/posts";
 
 .container {
-  max-width: 58rem;
+  max-width: 44rem;
+}
+
+p a {
+  font-weight:bold;
+  text-decoration:underline;
 }
