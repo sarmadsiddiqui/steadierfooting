@@ -44,7 +44,7 @@ That's the whole problem. All my creations are locked away behind some app, unab
 
 Obviously, the easiest way to fix this problem is to just expose the user to the traditional file system. But we know that Jobs (and presumably, post-Jobs Apple) was not a fan of the traditional file system. So we can assume this solution won't be implemented. We also know the current paradigm is designed with the idea that an app should handle only the data it has context for: the Music app handles music, Photos handles images, and so on. Really, the best compromise at this stage would be to create a context based abstraction layer. Something like the following:
 
-<a href="{{baseurl}}/wp-content/uploads/2012/06/file_system.png"><img src="{{baseurl}}/wp-content/uploads/2012/06/file_system.png" alt="File System" title="file_system" width="600" class="size-full wp-image-211" /></a>
+<a href="{{site.baseurl}}/wp-content/uploads/2012/06/file_system.png"><img src="{{site.baseurl}}/wp-content/uploads/2012/06/file_system.png" alt="File System" title="file_system" width="600" class="size-full wp-image-211" /></a>
 
 Instead of a per-app based storage paradigm, there should be a per-context or per-data type storage pool. If two apps need access to the same data type, both of them should have permission to that particular storage pool. A different app that deals with a different data types will have access to a different storage pool. This is just one compromise that hides away most of the complexities of the file system but allows folks to be productive; an improvement over the current paradigm that hides away complexity at the cost of productivity.
 

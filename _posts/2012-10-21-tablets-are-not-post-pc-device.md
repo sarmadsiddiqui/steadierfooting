@@ -21,8 +21,8 @@ Let’s start with the venerable desktop PC. It’s basically four basic units: 
 
 Now I want to point out why all three devices are essentially the same thing, a personal computer. Each of the smaller devices can effectively “become” the larger device at any time. Connecting a laptop to a keyboard, mouse, and display will effectively make it into a desktop. Similarly, for a tablet, connecting a keyboard and touchpad will make it into a laptop. Going further, connecting a monitor as well will effectively make it into a desktop. Looking at it this way, these devices are not different classes of devices; they are just new form factors of the same device, the personal computer.
 
-<a href="{{baseurl}}/wp-content/uploads/2012/10/evo_details.png">
-<img title="evo_details" src="{{baseurl}}/wp-content/uploads/2012/10/evo_details.png" alt="From tablets to desktops" width="400" /></a>
+<a href="{{site.baseurl}}/wp-content/uploads/2012/10/evo_details.png">
+<img title="evo_details" src="{{site.baseurl}}/wp-content/uploads/2012/10/evo_details.png" alt="From tablets to desktops" width="400" /></a>
 
 Each new form factor follows the similar trend: a new input method, a smaller but usable output, much greater portability, and the ability to become the larger form factor. Each form factor is also, initially at least, much less powerful than its predecessor. However, we know that within a few years, most of the work that could only be done in the older device can be accomplished in the newer device. That is just a function of platform maturity [^1].
 

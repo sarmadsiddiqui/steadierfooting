@@ -29,13 +29,13 @@ In order to do these tests, I visited particular articles on 18 fairly common si
 
 My first run was using the default installation of Firefox 10.0. The results can be seen in Figure 1 below.  There were an astonishing 66 trackers collecting information from the 18 visited sites. The largest tracker (largest red dot) was ‘Scorecard Research’ with 28 connections, followed by ‘doubleclick.net’ (Google) with 25 connections, and 'Nielsen Netratings’ with 21 connections. I was expecting a large number, but 66 confirmed trackers are still a bit too much from just 18 sites.
 
-![No Privacy]({{baseurl}}/wp-content/uploads/2012/03/noprivacy.png)
+![No Privacy]({{site.baseurl}}/wp-content/uploads/2012/03/noprivacy.png)
 
 <p style="text-align:center"><span style="font-size:small">Figure 1: Connectivity map of the default Firefox 10.0 installation.</span></p>
 
 As most of the trackers were associated with advertisement firms, I decided to use the popular add-on <a href='https://adblockplus.org/en/'>Adblock Plus</a> (by Wladimir Palant) for my next run. As Adblock Plus prevents the actual third-party site code from loading, I assumed that it would suppress tracking cookies. And that’s exactly what happened. Loading the same 18 sites/ articles produced a very different connectivity map this time. Only 9 trackers were detected (Figure 2, below). The largest tracker was again ‘Scorecard Research’, followed by ‘Nielsen’ and then ‘Quantcast’. The number of connected sites for each was 14, 9 and 7, respectively. So just using Adblock Plus drops tracking by seven fold. Quite impressive results from just one add-on.
 
-![Adblock]({{baseurl}}/wp-content/uploads/2012/03/adblock.png)
+![Adblock]({{site.baseurl}}/wp-content/uploads/2012/03/adblock.png)
 
 <p style="text-align:center"><span style="font-size:small">Figure 2: Connectivity map of Firefox with the Adblock Plus add-on.</span></p>
 
@@ -43,13 +43,13 @@ After installing Adblock Plus, I installed a spate of add-ons that don’t targe
 
 The next anti-tracking add-on I installed was <a href='https://disconnect.me/'>Disconnect</a>. It’s a fairly new add-on compared to the rest and I had heard good things about it, but it was a bit disappointing. As it can be seen below (Figure 3), the number of confirmed trackers increased to 12. The top three trackers were the same as Adblock Plus, but their connected sites were now read 12, 8, and 6. It seems that Disconnect only focuses on social networks in particular, and perhaps that’s why it isn’t particularly effective. Maybe Disconnect interfered with the above mentioned add-ons and caused an increase in trackers from 9 to 12.
 
-![Disconnect]({{baseurl}}/wp-content/uploads/2012/03/disconnect.png)
+![Disconnect]({{site.baseurl}}/wp-content/uploads/2012/03/disconnect.png)
 
 <p style="text-align:center"><span style="font-size:small">Figure 3: Connectivity map of Firefox with the Adblock Plus, HTTPS-Everywhere, Beef Taco, Better Privacy, and Disconnect add-ons.</span></p>
 
 For my next run, I used an older add-on called <a href='http://www.ghostery.com/download'>Ghostery</a> (by David Cancel) instead of Disconnect (the other add-ons were still in place). Ghostery has a very large blacklist of third-party cookies that isn’t enabled by default. I enabled the entire blacklist, some 850 sites or so before visiting the same 18 sites. The results were fantastic. Only 1 confirmed tracker remained. It was outbrain.com, connected to cnn.com. So a 66 fold decrease from the default Firefox installation!
 
-![Several adblockers]({{baseurl}}/wp-content/uploads/2012/03/ghostery.png)
+![Several adblockers]({{site.baseurl}}/wp-content/uploads/2012/03/ghostery.png)
 
 <p style="text-align:center"><span style="font-size:small">Figure 4: Connectivity map of Firefox with the Adblock Plus, HTTPS-Everywhere, Beef Taco, Better Privacy, and Ghostery add-ons</span></p>
 
@@ -96,14 +96,14 @@ For most of my recommendations to actually work, you’ll have to be using Firef
 
 Based on my results, at a minimum, I’d recommend installing the following add-ons for blocking tracking cookies: Adblock Plus & Ghostery. Installing Adblock Plus comes with a warning though. After installing it, the amount of ads you’ll encounter will drop pretty close to zero. In alot of cases this improves the browsing session greatly, but it directly affects the money the site owners make. As such I’d recommend whitelisting sites that you visit frequently. It can be done by clicking on the adblock plus icon in the menu as selecting ‘Disable on sitename…’:
 
-![Adblock Menu]({{baseurl}}/wp-content/uploads/2012/03/adblockmenu.png)
+![Adblock Menu]({{site.baseurl}}/wp-content/uploads/2012/03/adblockmenu.png)
 
 <p style="text-align:center"><span style="font-size:small">Figure 5: How to whitelist frequently visited sites in Adblock Plus.</span></p>
 
 
 By default Ghostery just shows the trackers, it doesn’t actually disable them. This can be changed by going to the 'Firefox' button &#62; Add-ons &#62; Ghostery &#62; 'Options' button. In the general tab, click the ‘3pes’ tab and check all the categories to disable all third-party cookie communcaiton with their respectve servers. In practice, I keep ‘Google Analytics’ and ‘Disqus’ enabled as I use those services often. Most folks would probably want to enable (keep unchecked) Facebook and Twitter plugins as well. These social plugins are found in the ‘Widgets’ category under the ‘3pes’ tab. More astute folks will notice a ‘Cookies’s tab next to the ‘3pes’ tab. This has similar functionality to the earlier mentioned Beef Taco add-on. I haven’t experimented with it, but I expect it to serve the same purpose. You can choose to disable all the cookies, or install Beef Taco to accomplish the same goal. While in the Options menu, you might as well hit the ‘Advanced’ tab and change the ‘Show Alert Bubble’ to less than 5 seconds from the default 15 seconds. I find the default setting a bit too long for my tastes:
 
-![Ghostery Menu]({{baseurl}}/wp-content/uploads/2012/03/ghosterymenu.png)
+![Ghostery Menu]({{site.baseurl}}/wp-content/uploads/2012/03/ghosterymenu.png)
 
 <p style="text-align:center"><span style="font-size:small">Figure 6: Ghostery Advanced Options.</span></p>
 
@@ -117,6 +117,6 @@ Lastly a note on browsers. I’m partial to Firefox myself, and I think it holds
 
 [^1]: It's actually a two way process: first a cookie is left on the computer, then it can communicate with a server. A good summary is on Wikipedia [(link)](https://en.wikipedia.org/wiki/HTTP_cookie#Privacy_and_third-party_cookies).
 
-[^2]: Well the definition of common depends on where your interests lie I suppose. Either way, they are popular sites: amazon.com, apple.com, cnet.com, cnn.com, cricinfo.com, espn.com, facebook.com, gmail.com, huffingtonpost.com, imdb.com, lifehacker.com, microsoft.com, nyt.com, rottentomatoes.com, slate.com, si.com, theverge.com, twitter.com. You can download the links to the exact articles by downloading this [html file]({{baseurl}}/wp-content/uploads/2012/03/eighteen_sites.html) if you want to reproduce these results.
+[^2]: Well the definition of common depends on where your interests lie I suppose. Either way, they are popular sites: amazon.com, apple.com, cnet.com, cnn.com, cricinfo.com, espn.com, facebook.com, gmail.com, huffingtonpost.com, imdb.com, lifehacker.com, microsoft.com, nyt.com, rottentomatoes.com, slate.com, si.com, theverge.com, twitter.com. You can download the links to the exact articles by downloading this [html file]({{site.baseurl}}/wp-content/uploads/2012/03/eighteen_sites.html) if you want to reproduce these results.
 
 [^3]: The Chrome version is not exactly the same as Firefox's version. It might affect tracker blocking; it's something I don't know. You can download it here [(link)](https://adblockplus.org/en/chrome).

@@ -12,7 +12,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-<a href="{{baseurl}}/wp-content/uploads/2014/02/wawrinka_tj_kong.jpg"><img alt="Stannis Wawrinka" src="{{baseurl}}/wp-content/uploads/2014/02/wawrinka_tj_kong.jpg" max-width="1024" /></a> <small>Stannis Wawrinka, the Australian Open 2014 Champion. Copyright <a href="http://ljkong.com/">LJ Kong</a>, 2014. <a href="http://www.flickr.com/photos/ljology/12069186004/">Image</a> used with permission.</small>
+<a href="{{site.baseurl}}/wp-content/uploads/2014/02/wawrinka_tj_kong.jpg"><img alt="Stannis Wawrinka" src="{{site.baseurl}}/wp-content/uploads/2014/02/wawrinka_tj_kong.jpg" max-width="1024" /></a> <small>Stannis Wawrinka, the Australian Open 2014 Champion. Copyright <a href="http://ljkong.com/">LJ Kong</a>, 2014. <a href="http://www.flickr.com/photos/ljology/12069186004/">Image</a> used with permission.</small>
 
 This was a strange tournament from start to finish. During the first four days, the battles seemed to be with the sun more than anything else. I ended up watching a smattering of the early rounds matches, but none of them were particularly memorable. The tournament definitely picked up the slack in the second week with a number of higher seeds falling, especially in the women’s draw. Then there was the men’s final, which was a bit bittersweet, but maybe an appropriate ending, to the first slam of 2014.
 <!--more-->

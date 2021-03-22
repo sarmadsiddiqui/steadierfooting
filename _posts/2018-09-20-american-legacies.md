@@ -42,26 +42,26 @@ Now, for every statue or memorial that gets removed because of these reckonings,
 
 I felt that it was worth a bit of space to talk about the founding of the Republican Party and the causes of the Civil War before moving forward in time and topic. The Democratic-Republican party (precursor to the Democratic party) won a majority of the states in most elections before 1924, with the more industrial North serving as the stronghold for the Federalist party:
 
-![First Party System]({{baseurl}}/wp-content/uploads/2018/09/1792-1824-First_Party_System.png)
+![First Party System]({{site.baseurl}}/wp-content/uploads/2018/09/1792-1824-First_Party_System.png)
 <small>Election results from 1796 to 1824. [Click here for the map source and colormap legend](https://commons.wikimedia.org/wiki/File:First_Party_System.svg). By [Walk Like an Egyptian](https://en.wikipedia.org/wiki/User:Walk_Like_an_Egyptian) used under the CC-BY-SA 4.0 license.</small>
 
 As the country modernized and the [attitudes towards slavery started evolving](https://lincolnmullen.com/projects/slavery/) &mdash;when industrialization minimizes the need for manpower, people tend to remember slavery is unjust&mdash; the stranglehold that the now Democratic party had started loosening. The Whig Party was formed due to the discontent with the Democratic Party's Andrew Jackson's presidency. The Whig platform was quite broad, and didn't seem to have a fixed stance towards slavery. The best way to describe the party was as an activist party, with some members, particularly in the north, were against slavery whereas others in the south were in favor of slavery. As you can see in the figure below, the Whigs won mostly in the northern free states, whereas the Democrats primarily continued to win in the slave states between 1828 and 1852. Do note that this was not just due to just anti-slavery sentiments; the Whig platform in general favored the more industrial north.
 
-![Second Party System]({{baseurl}}/wp-content/uploads/2018/09/1828-1852-Second_Party_System.png)
+![Second Party System]({{site.baseurl}}/wp-content/uploads/2018/09/1828-1852-Second_Party_System.png)
 <small>Election results between 1828 and 1852. [Click here for the map source and colormap legend](https://commons.wikimedia.org/wiki/File:Second_Party_System.svg). By [Walk Like an Egyptian](https://en.wikipedia.org/wiki/User:Walk_Like_an_Egyptian) used under the CC-BY-SA 4.0 license.</small>
 
 As for the slavery issue itself, the Missouri Compromise &mdash;passed in the early 19th century&mdash; served as the peacekeeping mechanism between the northern states and the southern states by maintaining the ratio between the free states and slave states. Things came to a head with the passing of the Kansas-Nebraska Compromise in 1854 that voided the Missouri Compromise and let each territory choose whether it could be a free or slave territory (I'm skipping the Compromise of 1850, which dealt with the Western territories). At this point many Whigs, as well as a subset of Northern Democrats defected to form the Republican Party, [primarily on the basis of their anti-slavery platform (p4, &#182;2)](http://content.wisconsinhistory.org/cdm/compoundobject/collection/tp/id/46379/show/46363).
 
 Needless to say, Lincoln won the election of 1860. The electoral college map looked like this:
 
-<small>![Election of 1860]({{baseurl}}/wp-content/uploads/2018/09/1860-Election.png)
+<small>![Election of 1860]({{site.baseurl}}/wp-content/uploads/2018/09/1860-Election.png)
 [The election of 1860](https://en.wikipedia.org/wiki/File:ElectoralCollege1860.svg). By [AndyHogan14](https://commons.wikimedia.org/wiki/User:AndyHogan14) (public domain work).</small>
 
 The anti-slavery Republican party only won in the north, whereas the other candidates, who were more of less ambivalent or pro-slavery split the south (interestingly, the Northern Democrats nominated Stephen Douglas whereas the Southern Democrats nominated John Breckinridge as presidential candidates). It is absolutely critical to realize the trend established over the past sixty-eight years of the country: it's not the party that determines people's attitudes, but in fact the people's attitude that determines which party they voted for. The North voted for, and then abandoned the Federalists, the Democrats, and the Whigs to overwhelmingly vote for the newly formed Republican Party in 1860 as its platform fit their wants and needs. The South primarily voted for the Democratic Party over the same time period as its platform appealed to their desires and needs. So what did they want in 1860?
 
 Well to keep a long story short, before Lincoln was even inaugurated, seven out of fourteen slave states made their intent clear by seceding to form the Confederate States of America (CSA). A total of eleven states eventually seceded, and the map of the US looked during the Civil War looked as follows (from 1964):
 
-![Civil War Map]({{baseurl}}/wp-content/uploads/2018/09/1864_civil_war.png)
+![Civil War Map]({{site.baseurl}}/wp-content/uploads/2018/09/1864_civil_war.png)
 
 <small>The states in pink formed the CSA. [Click here for the map source and colormap legend](https://commons.wikimedia.org/wiki/File:USA_Map_1864_including_Civil_War_Divisions.png). By [Tom](https://commons.wikimedia.org/wiki/User:Tom) used under the CC-BY-SA 3.0 license.</small>
 

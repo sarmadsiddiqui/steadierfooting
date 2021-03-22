@@ -26,7 +26,7 @@ categories:
 
 <p>The other peculiarity I noticed was that the keys are always in caps. SwiftKey changes from small to caps when I hit shift key. It’s an easy visual cue as opposed to a small indicator on the shift button on the iPad keyboard.</p>
 
-<p style='text-align:center'><img src='{{baseurl}}/wp-content/uploads/2012/04/keyboard.png' width='550' height='485'><br/><span style='font-size:small'>Figure 1: The iPad keyboard alongside the SwiftKey keyboard. Notice that by default, SwiftKey's keys are not in caps. Also note the spelling correction mechanism, similar to one found in default Android ICS.</span></p>
+<p style='text-align:center'><img src='{{site.baseurl}}/wp-content/uploads/2012/04/keyboard.png' width='550' height='485'><br/><span style='font-size:small'>Figure 1: The iPad keyboard alongside the SwiftKey keyboard. Notice that by default, SwiftKey's keys are not in caps. Also note the spelling correction mechanism, similar to one found in default Android ICS.</span></p>
 
 <p>I do like the ability to split the keyboard in landscape view. It’s great for typing whilst holding the device and walking, or propped up in bed.</p>
 
@@ -55,7 +55,7 @@ categories:
 <p><strong>Device name</strong></p>
 <p>You can name your iOS device. It shows up on the network. It’s a nice change from the random strings of numbers that an Android devices identify with. As far as I know, I couldn’t even change the device name with Cyanogenmod ROM on my Android phones.</p>
 
-<p style='text-align:center'><img src='{{baseurl}}/wp-content/uploads/2012/04/name.png' width='525' height='333'><br/><span style='font-size:small'>Figure 2: Naming devices! As any self-respecting geek, I name my devices properly. The Android device shows up as &lt;unknown&gt;. The printer shows up as BR...</span></p>
+<p style='text-align:center'><img src='{{site.baseurl}}/wp-content/uploads/2012/04/name.png' width='525' height='333'><br/><span style='font-size:small'>Figure 2: Naming devices! As any self-respecting geek, I name my devices properly. The Android device shows up as &lt;unknown&gt;. The printer shows up as BR...</span></p>
 
 <p><strong>Multitouch gestures</strong></p>
 <p>If there's one thing that PC users are missing out on, it's gestures on Mac OS X. From two finger scrolling to four finger mission control, it's just fantastic. The iPad has the four-fingered gestures for app switching, and it's great. iPhones and Android phones should figure out how to implement it. The Dolphin HD browser has some gestures, and it works well on Android phones, but aren't particularly convenient on the iPad (Probably because the gesture button is not towards the bottom, unlike the placement in Android phones). I think gestures in general would be a great boost to any platform, let alone four, or five-fingered gestures.</p>

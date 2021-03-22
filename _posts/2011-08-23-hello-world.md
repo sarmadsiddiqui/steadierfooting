@@ -11,7 +11,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-<a href="{{baseurl}}/wp-content/uploads/2011/08/TbirdLogo200x200.png"><img class="aligncenter size-full wp-image-33" title="TbirdLogo200x200" src="{{baseurl}}/wp-content/uploads/2011/08/TbirdLogo200x200.png" alt="Thunderbird Logo" width="200" height="200" /></a>
+<a href="{{site.baseurl}}/wp-content/uploads/2011/08/TbirdLogo200x200.png"><img class="aligncenter size-full wp-image-33" title="TbirdLogo200x200" src="{{site.baseurl}}/wp-content/uploads/2011/08/TbirdLogo200x200.png" alt="Thunderbird Logo" width="200" height="200" /></a>
 
 The latest version of Thunderbird, the desktop email client by Firefox's parent company Mozilla was released recently. It is one of the few actively developed desktop email clients these days, and as such makes an interesting case study. In this review I’ll look at the notable changes in the latest version of Thunderbird and comment on things that Thunderbird needs to do well to stay relevant in a world where most consumers rely on cloud based services for email access and storage.
 
@@ -21,15 +21,15 @@ Although the version number has jumped from 3.1 to 5.0, there aren’t any drama
 <table>
 <tbody>
 <tr>
-<td><a href="{{baseurl}}/wp-content/uploads/2011/08/tb_3.1.png"><img class="alignnone size-thumbnail wp-image-31" title="tb_3.1" src="{{baseurl}}/wp-content/uploads/2011/08/tb_3.1-150x150.png" alt="Thunderbird 3.1" width="150" height="150" /></a></td>
-<td><a href="{{baseurl}}/wp-content/uploads/2011/08/default_transperent_chrome.png"><img class="alignnone size-thumbnail wp-image-28" title="default_transperent_chrome" src="{{baseurl}}/wp-content/uploads/2011/08/default_transperent_chrome-150x150.png" alt="Thunderbird 5.0 on Windows 7" width="150" height="150" /></a></td>
-<td><a href="{{baseurl}}/wp-content/uploads/2011/08/linux2.png"><img class="alignnone size-thumbnail wp-image-30" title="linux2" src="{{baseurl}}/wp-content/uploads/2011/08/linux2-150x150.png" alt="Thunderbird 5.0 on Ubuntu 11.04" width="150" height="150" /></a></td>
+<td><a href="{{site.baseurl}}/wp-content/uploads/2011/08/tb_3.1.png"><img class="alignnone size-thumbnail wp-image-31" title="tb_3.1" src="{{site.baseurl}}/wp-content/uploads/2011/08/tb_3.1-150x150.png" alt="Thunderbird 3.1" width="150" height="150" /></a></td>
+<td><a href="{{site.baseurl}}/wp-content/uploads/2011/08/default_transperent_chrome.png"><img class="alignnone size-thumbnail wp-image-28" title="default_transperent_chrome" src="{{site.baseurl}}/wp-content/uploads/2011/08/default_transperent_chrome-150x150.png" alt="Thunderbird 5.0 on Windows 7" width="150" height="150" /></a></td>
+<td><a href="{{site.baseurl}}/wp-content/uploads/2011/08/linux2.png"><img class="alignnone size-thumbnail wp-image-30" title="linux2" src="{{site.baseurl}}/wp-content/uploads/2011/08/linux2-150x150.png" alt="Thunderbird 5.0 on Ubuntu 11.04" width="150" height="150" /></a></td>
 </tr>
 </tbody>
 </table>
 <span style="font-size: 12px;">From left to right: Thunderbird 3.1 on Windows 7, Thunderbird 5.0 on Windows 7, and Thunderbird 5.0 on Ubuntu 11.04</span>
 
-<a href="{{baseurl}}/wp-content/uploads/2011/08/default_screen_small.png"><img class="aligncenter size-full wp-image-35" title="default_screen_small" src="{{baseurl}}/wp-content/uploads/2011/08/default_screen_small.png" alt="Default Transparency" width="480" height="64" /></a>
+<a href="{{site.baseurl}}/wp-content/uploads/2011/08/default_screen_small.png"><img class="aligncenter size-full wp-image-35" title="default_screen_small" src="{{site.baseurl}}/wp-content/uploads/2011/08/default_screen_small.png" alt="Default Transparency" width="480" height="64" /></a>
 
 <span style="font-size: 12px;">Dark or textured backgrounds make the menu buttons illegible with Thunderbird 5.0’s default theme on Windows 7 / Vista. </span>
 
@@ -67,8 +67,8 @@ All that being said, the biggest problem with the Conversations add-on is the UI
 <table>
 <tbody>
 <tr>
-<td><a href="{{baseurl}}/wp-content/uploads/2011/08/threaded.png"><img class="alignnone size-medium wp-image-34" title="threaded" src="{{baseurl}}/wp-content/uploads/2011/08/threaded-271x300.png" alt="Threaded View" width="271" height="300" /></a></td>
-<td><a href="{{baseurl}}/wp-content/uploads/2011/08/conversations.png"><img class="alignnone size-medium wp-image-26" title="conversations" src="{{baseurl}}/wp-content/uploads/2011/08/conversations-280x300.png" alt="Conversations View" width="280" height="300" /></a></td>
+<td><a href="{{site.baseurl}}/wp-content/uploads/2011/08/threaded.png"><img class="alignnone size-medium wp-image-34" title="threaded" src="{{site.baseurl}}/wp-content/uploads/2011/08/threaded-271x300.png" alt="Threaded View" width="271" height="300" /></a></td>
+<td><a href="{{site.baseurl}}/wp-content/uploads/2011/08/conversations.png"><img class="alignnone size-medium wp-image-26" title="conversations" src="{{site.baseurl}}/wp-content/uploads/2011/08/conversations-280x300.png" alt="Conversations View" width="280" height="300" /></a></td>
 </tr>
 </tbody>
 </table>
