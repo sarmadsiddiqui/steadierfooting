@@ -12,7 +12,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-<p><img src="{{baseurl}}/wp-content/uploads/2016/03/sunshine.png" alt="Screenshot from Man of Steel (2013). Copyright Warner Bros." max-width="1920" /></p>
+<p><img src="{{site.baseurl}}/wp-content/uploads/2016/03/sunshine.png" alt="Screenshot from Man of Steel (2013). Copyright Warner Bros." max-width="1920" /></p>
 
 <p style="padding-left: 30px;"><span style="color: #0000ff;">"Do you believe a man can fly?"</span>
 <br><small>Lex Luthor to Clark Kent, <em>Smallville</em> Pilot (2001)</small></p>
