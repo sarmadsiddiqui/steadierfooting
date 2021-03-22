@@ -1,6 +1,6 @@
 title:               Steadier Footing
-url:                 https://www.smsiddiqui.com/
-baseurl:             "/steadierfooting"
+url:                 https://www.steadierfooting.com/
+baseurl:             ""
 
 markdown:            kramdown
 highlighter:         rouge
