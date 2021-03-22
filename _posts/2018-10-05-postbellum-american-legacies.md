@@ -20,26 +20,26 @@ categories:
 
 This brings us to the Reconstruction era, the introduction of Jim Crow Laws and everything else. I will try to keep this section short, and point to data from post-Civil War right up to 1928, When FDR was first elected. My reasoning is simple; in this era the Democratic Party solidified their control of the Southern States, as seen in figure 1 below, showing the election results from 1896-1928. I skipped over the [results from 1856-1892 as they are very similar](https://en.wikipedia.org/wiki/Third_Party_System).
 
-![Fourth Party System]({{baseurl}}/wp-content/uploads/2018/10/1896-1928-Fourth_Party_System.png)
+![Fourth Party System]({{site.baseurl}}/wp-content/uploads/2018/10/1896-1928-Fourth_Party_System.png)
 <small>Figure 1: Election results from 1896 to 1928. [Click here for the map source and colormap legend](https://commons.wikimedia.org/wiki/File:Fourth_Party_System.svg). By [Walk Like an Egyptian](https://en.wikipedia.org/wiki/User:Walk_Like_an_Egyptian) used under the CC-BY-SA 4.0 license. </small>
 
 Based on the section on the cause of the Civil War, as well as voting pattern until 1928, its safe to say whatever platform the Democratic Party was selling, the Southern states more or less were in lockstep with it. It's important to understand that when folks vote for a party or a leader, its usually a multifaceted decision. In the previous section, I glossed over all the other reasons people in different regions or states may have voted for a party or a particular president before the Civil War as the CSA founding documents narrowed the motivation down to a one-issue reason as I cited above. However, to continue focusing on the issue at hand &mdash;that is, the legacy of Americans via the lens of racism&mdash; I will continue to gloss over most of these reasons, which include different people's stances on war, industrialization, women's suffrage, international trade... the list is endless... until the entire nation gets embroiled in the issue at hand (namely, the Great Depression and World War II).
 
 So what was happening in Southern states that was in stark contrast to the Northern states during this time period? As you mentioned, the formation of KKK, the spread of Jim Crow laws, and of course the extrajudicial killings that came along with it:
 
-![Extrajudicial killings]({{baseurl}}/wp-content/uploads/2018/10/lynching_1882-1931.png)
+![Extrajudicial killings]({{site.baseurl}}/wp-content/uploads/2018/10/lynching_1882-1931.png)
 <small>Figure 2: Screen shot from this [amazing compilation and visualization of lynchings from 1882 to 1964](http://www.monroeworktoday.org/explore/map2/index.html#). See [^1] for more details about this data. </small>
 
 There are several things to note here. The most obvious being most of extrajudicial killings are concentrated in the south, particularly in the Deep South. It is safe to assume, as you allude to, given the stark contrasts between the voting pattern in the North and the South, the people responsible for the racist laws and murders most likely voted Democrat. Secondly, there are quite a few  extrajudicial killings in the Northern states as well. Needless to say, racism exists everywhere. And on that note, we can also see that in the West the killings are directed mostly towards Asians and Latinos.
 
 I also used their timeline scrubber to show when the lynchings were carried out. Compared to the baseline, we see increased killings immediately after the end of the Civil War, and then a surge between 1910-1925, and lastly an increase post-WWII:
 
-![1860-1964 Extrajudicial killings]({{baseurl}}/wp-content/uploads/2018/10/1860_1964_lynching.png)
+![1860-1964 Extrajudicial killings]({{site.baseurl}}/wp-content/uploads/2018/10/1860_1964_lynching.png)
 <small>Figure 3: This snapshot of size of lynchings (circle diameter) versus time is from the [same site, Monroe Work Today](http://www.monroeworktoday.org/explore/map2/index.html#), as figure 2 [^2]. </small>
 
 Furthermore, this is also the time period we see the proliferation of what started this whole prompt&mdash; monuments commemorating the legacies of Confederate soldiers and leaders. I took this [rather expansive CSV list of Confederate symbols from the Southern Poverty Law Center](https://splcenter.carto.com/tables/confederate_symbols/public) and *only* plotted the frequency of the *monuments* listed by year (so I removed highways, schools, parks, counties, holidays, buildings, etc in their list), and I got this histogram:
 
-![Civil War Monuments]({{baseurl}}/wp-content/uploads/2018/10/civil_war_monuments.png)
+![Civil War Monuments]({{site.baseurl}}/wp-content/uploads/2018/10/civil_war_monuments.png)
 <small>Figure 4: Plotting *only* the Civil War monuments versus time from the [data compiled by the SPLC](https://splcenter.carto.com/tables/confederate_symbols/public). I'd suggest deep diving into the CSV for anyone interested as most often they have links to sites indexing individual monuments and the text inscribed on them.</small>
 
 Compared to baseline, there are really two peaks worth highlighting: The peak spanning 1900-1920, and then the peak in the early 1960's. The first peak during the Jim Crow era coincided with the rise of [disenfranchisement laws](https://en.wikipedia.org/wiki/Disenfranchisement_after_the_Reconstruction_Era), the rise of the [second Ku Klux Klan](https://en.wikipedia.org/wiki/Ku_Klux_Klan#Second_Klan:_1915%E2%80%931944), and the [formation of the NAACP](https://en.wikipedia.org/wiki/NAACP). The second peak coincided with the Civil Rights Movement. Even without looking at the dedications of each individual monument, just based on the trend it seems that these monuments start appearing en masse when movements by Black Americans demanding equality start gaining steam: whether it was voting rights in the early 20th century or equal treatment in general in the later 20th century. 
@@ -72,27 +72,27 @@ As *you mentioned*, most of these racist, oppressive actions took place in regio
 
 A funny thing happened starting in 1932. Everyone started voting Democrat. This next map spans from 1932-1964, so nine elections. 7/9 were won by Democrats, and based on the sea of blue, the entire country seems to have been regularly voting for them. 
 
-![Fifth Party System]({{baseurl}}/wp-content/uploads/2018/10/1932-1964-Fifth_Party_System.png)
+![Fifth Party System]({{site.baseurl}}/wp-content/uploads/2018/10/1932-1964-Fifth_Party_System.png)
 
 <small>Figure 5: Election results from 1932 to 1964. [Click here for the map source and colormap legend](https://commons.wikimedia.org/wiki/File:Fifth_Party_System.svg). By [Walk Like an Egyptian](https://en.wikipedia.org/wiki/User:Walk_Like_an_Egyptian) used under the CC-BY-SA 4.0 license.</small>
 
 If your claim was correct that the Democrats &mdash;the 'party of racism' associated with the KKK and the Jim Crow laws&mdash; were still racists, then it would suggest that with the spread of the the Democratic Party platform to the other non-Southern states, we would see increased racist laws and incidents spread to those regions. We don't. Let's look at some racist laws by regions:
 
-![Racial Segregation]({{baseurl}}/wp-content/uploads/2018/10/Educational_Segregation_1954.png)
+![Racial Segregation]({{site.baseurl}}/wp-content/uploads/2018/10/Educational_Segregation_1954.png)
 <small>Figure 6: Education segregation prior to *Brown vs Board* in 1954. [Click here for the map source and colormap legend](https://commons.wikimedia.org/wiki/File:Educational_separation_in_the_US_prior_to_Brown_Map.svg). By [Tony](https://commons.wikimedia.org/wiki/User:King_of_Hearts) used under the CC-BY-SA 4.0 license.</small>
 
 This is the map of where [segregation was required](https://en.wikipedia.org/wiki/History_of_education_in_the_United_States#Segregation_and_integration) prior to *Brown vs Board of Education* in 1954. This was 22 years after the Democrats won the election of 1932 by a landslide. Despite the spread of the Democratic platform to the entire country, these particular racist laws were only present in the former Confederate states, the [Border states](https://en.wikipedia.org/wiki/Border_states_(American_Civil_War)), and Oklahoma (which wasn't a state during the Civil War).
 
 Let's look at another racist law. This map shows the distribution of when anti-miscegenation laws were repealed in the different states:
 
-![Repeal of anti-miscegenation laws]({{baseurl}}/wp-content/uploads/2018/10/US_miscegenation_1967.png)
+![Repeal of anti-miscegenation laws]({{site.baseurl}}/wp-content/uploads/2018/10/US_miscegenation_1967.png)
 <small>Figure 7: Anti-miscegenation laws prior to *Loving vs Virginia* in 1967. [Click here for the map source and colormap legend](https://commons.wikimedia.org/wiki/File:Educational_separation_in_the_US_prior_to_Brown_Map.svg). By [Certes](https://commons.wikimedia.org/wiki/User:Certes) used under the CC-BY-SA 3.0 license.</small>
 
 This map, and the [accompanying Wikpedia entry on anti-miscegenation laws](https://en.wikipedia.org/wiki/Anti-miscegenation_laws_in_the_United_States) gives us even more insight into this time period. Between 1932 and 1964, 11 states repealed their racist laws. These states voted for both Democrats and Republicans in the time period. Despite the spread of the Democratic Party to the former Union states, none of these states enacted new anti-miscegenation laws during this time period. Unfortunately, as the theme continues, of the states that didn't repeal their anti-miscegenation laws, all were either former Confederate states or Border states. These states were forced to repeal their laws after *Loving vs Virginia* in 1967. 
 
 Lastly, those extrajudicial killings that were pre-dominant in the South in the postbellum period. Here is what the map looks like from 1932 to 1964, when the Democrats were the party in power for most of the period:
 
-![Extrajudicial killings]({{baseurl}}/wp-content/uploads/2018/10/lynching_1932-1964.png)
+![Extrajudicial killings]({{site.baseurl}}/wp-content/uploads/2018/10/lynching_1932-1964.png)
 <small>Figure 8: Screen shot from the [Monroe Work Today's visualization of lynchings from 1932 to 1964](http://www.monroeworktoday.org/explore/map2/index.html#).</small>
 
 The theme continues. The killings almost exclusively continued to occur in the South. The only cluster in the North is  the [1943 Detroit Race Riot](https://en.wikipedia.org/wiki/1943_Detroit_race_riot). You can read about that incident on your own time. Just based on these few examples, its safe to say a trend emerges. The Democratic Party expanded to almost all parts of the country, yet the naked racism that was correlated with them didn't spread at all. On the other hand, the racism and violence found in the South remained there, until struck down by the Supreme Court in the examples above or by other actions of the federal government. So what happened to the Democratic Party? 
