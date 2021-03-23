@@ -16,11 +16,12 @@ categories:
 
 This was a strange tournament from start to finish. During the first four days, the battles seemed to be with the sun more than anything else. I ended up watching a smattering of the early rounds matches, but none of them were particularly memorable. The tournament definitely picked up the slack in the second week with a number of higher seeds falling, especially in the women’s draw. Then there was the men’s final, which was a bit bittersweet, but maybe an appropriate ending, to the first slam of 2014.
 <!--more-->
+
 <strong>Noteworthy Matches</strong>
 
 The first good match in the men’s draw was probably the Dimitrov/Raonic Round 4 match. Both players played some high caliber tennis, with Dimitrov probably a tad more impressive. They have contrasting styles, which made for an entertaining match; I expect that we’ll be seeing more of their battles in a year or two down the road. One of the best shots of the tournaments was probably played in this match as well:
-<div style="text-align: center;"><iframe src="//www.youtube.com/embed/a7oVXzkbCb4?rel=0&amp;showinfo=0&amp;theme=light" height="315" width="560" allowfullscreen="" frameborder="0"></iframe></div>
-&nbsp;
+
+<div class="yt-container"><iframe src="//www.youtube-nocookie.com/embed/a7oVXzkbCb4?rel=0&amp;showinfo=0&amp;theme=light" height="315" width="560" allowfullscreen="" frameborder="0"></iframe></div>
 
 The first memorable match in the women’s draw was the Ana/Serena match in Round 4. It was good to see Ana play successful low-percentage, aggressive tennis. Although Serena was off her game, Ana played with a confidence that had all but disappeared after her Roland Garros victory in 2009. She has a powerful aggressive game, and it was good to see it back in action.
 
@@ -51,8 +52,10 @@ So I think he just has to bide his time. The next hard court tournaments, unfort
 Of course, if I talk about Federer, I have to talk about Nadal. And what can I say? I am, if it’s not already apparent, foremost a Federer fan. And of course, I was rooting for Federer to win. But as painful as it was to watch that, and as much as I wanted to generate some hatred towards Nadal, it’s just impossible to not be his fan as well when he plays otherworldly tennis like that.
 
 Simply put, Rafa was fantastic in his semifinal against Fed. He had a plan. He'd seen Federer's forays into the net in the previous matches, and he made sure that he prevents that from happening. He tried hard, compared to his previous matches or other opponents, to keep the ball deep. That's it, just don't even give Federer an opportunity. Sometimes the shots weren't great, but they prevented Federer from ever breaking his (Rafa's) rhythm, or establishing his (Federer's) own. And then of course, the simply beautiful, physics pushing passes that he made when Federer came to the net. In the first two sets, there were 2 or 3 shots where Nadal stole Federer's perfectly planned approaches by needling the ball through gaps less than an arm's length:
-<div style="text-align: center;"><iframe src="//www.youtube.com/embed/tMMh51TREOQ?rel=0&amp;showinfo=0&amp;theme=light" height="315" width="560" allowfullscreen="" frameborder="0"></iframe></div>
-&nbsp;
+
+<div class="yt-container">
+<iframe src="//www.youtube-nocookie.com/embed/tMMh51TREOQ?rel=0&amp;showinfo=0&amp;theme=light" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+</div>
 
 Just amazing. When you're getting those in, your opponent doesn't stand a chance. So all the credit to him. He was fantastic. As much as I wanted to hate Rafa, I could not. He was just too damn good. That's why I watch tennis. For those exceptional shots. When you go, 'how is this even possible?!' He was doing it. It was fantastic.
 

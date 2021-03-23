@@ -69,3 +69,24 @@ li.siteheader {
 	margin-right: auto;
 }
 
+
+.yt-container {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  margin-bottom: 0.5rem;
+}
+
+.yt-container::after {
+  display: block;
+  content: "";
+  padding-top: 56.25%;
+}
+
+.yt-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
