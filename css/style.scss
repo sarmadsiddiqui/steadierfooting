@@ -34,3 +34,16 @@ p a {
   font-weight:bold;
   text-decoration:underline;
 }
+
+
+li.sm_about {
+	@media (max-width: 38em) {
+    	display: none;
+    }
+}
+
+li.lg_about {
+	@media (min-width: 38em) {
+    	display: none;
+    }
+}
