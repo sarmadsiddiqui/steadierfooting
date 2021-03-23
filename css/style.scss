@@ -35,6 +35,13 @@ p a {
   text-decoration:underline;
 }
 
+.nav-main {
+  ul {
+    display:flex;
+    max-width: 42rem;
+    margin:auto;
+  }
+}
 
 li.sm_about {
 	@media (max-width: 38em) {
@@ -46,4 +53,8 @@ li.lg_about {
 	@media (min-width: 38em) {
     	display: none;
     }
+}
+
+li.siteheader {
+	margin-right: auto;
 }
