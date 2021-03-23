@@ -41,6 +41,14 @@ p a {
     max-width: 42rem;
     margin:auto;
   }
+
+  a.siteheader {
+	font-family: Gotham,Times,serif;
+	font-weight: bold;
+	font-style: italic;
+	color: #174ad6;
+	font-size: 1.5rem;
+	}
 }
 
 li.sm_about {
@@ -58,3 +66,4 @@ li.lg_about {
 li.siteheader {
 	margin-right: auto;
 }
+
